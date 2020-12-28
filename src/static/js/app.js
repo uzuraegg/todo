@@ -1,7 +1,7 @@
 function App() {
     const { Container, Row, Col } = ReactBootstrap;
     return (
-        <h1>Buttons</h1>
+        <h1>Todo App</h1>
         <Container>
             <Row>
                 <Col md={{ offset: 3, span: 6 }}>
